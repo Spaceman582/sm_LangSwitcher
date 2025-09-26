@@ -3,7 +3,6 @@
 
 
 ###ENG
-
 WARNING, the plugin only works on WINDOWS!
 
 Due to Maya's issue with supporting languages other than English, non-English-speaking users face the problem of constantly switching keyboard layouts even when it is not necessary. This plugin solves that problem.
@@ -15,9 +14,7 @@ When you select any other window, the script will switch back to the language yo
 The plugin has been tested on Maya 2022-2024, but it contains no components that would interfere with using older or newer versions.
 
 
-
 ###RUS
-
 Внимание, плагин работает только на WINDOWS!
 
 Из-за того, что в Maya есть проблема с поддержкой языков, кроме английского, у неанглоговорящих пользователей появляется проблема постоянного переключения языка даже тогда, когда это не нужно.
@@ -26,10 +23,7 @@ The plugin has been tested on Maya 2022-2024, but it contains no components that
 Плагин тестировался на Maya 2022–2024, но в нём нет компонентов, которые бы мешали работе на более старой или более новой версии.
 
 
-
-
 ###INSTALLATION
-
 Drop the Python file into C:\Users\*USERNAME*\Documents\maya\plug-ins
 
 or ~\maya\20xx\plug-ins
@@ -38,25 +32,14 @@ or any other plug-in path supported by your MAYA client.
 
 In the Maya window, go to Windows menu --> Settings/Preferences/Plug-in manager, find sm_LangSwitcher.py, and run it. Afterward, a notification will appear in the console:
 
-
-
 // LangAutoSwitch : Already started
 
 This means the plugin is running and working properly.
-
-If you encounter any errors, you can contact me at
-
-LinkedIn or Telegram Аnd describe the problem. If I have enough information, I'll try to fix it.
-
-
 
 
 ###ERRORS
 
 At the moment, an error has been identified where, if after starting Maya the home window remains open and the focus is switched to another window, Maya may freeze. The error is completely random and does not always occur, and currently it is not clear what causes it.
-
-
-
 
 ###Disclaimer
 ##ENG
