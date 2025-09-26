@@ -1,4 +1,6 @@
 # sm_LangSwitcher
+<img width="600" height="600" alt="LangSwitch" src="https://github.com/user-attachments/assets/0af24fcc-fead-4d58-8d3a-20834920487e" />
+
 
 ###ENG
 
